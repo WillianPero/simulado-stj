@@ -1510,11 +1510,11 @@
   "pergunta": "A proposição 'Se chove, então levo guarda-chuva' é:",
   "alternativas": [
     "Conjunção",
-    "Condicional",
     "Disjunção",
+    "Condicional",
     "Bicondicional"
   ],
-  "resposta": 1
+  "resposta": 2
 },
 {
   "materia": "Raciocínio Lógico",
@@ -1554,11 +1554,11 @@
   "pergunta": "A disjunção ocorre quando usamos:",
   "alternativas": [
     "E",
-    "Ou",
     "Se",
+    "Ou",
     "Não"
   ],
-  "resposta": 1
+  "resposta": 2
 },
 {
   "materia": "Raciocínio Lógico",
