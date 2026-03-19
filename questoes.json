@@ -1,0 +1,1828 @@
+[
+  {
+    "materia": "Português",
+    "pergunta": "Assinale a frase com concordância correta.",
+    "alternativas": [
+      "Houveram problemas.",
+      "Existem erros.",
+      "Fazem anos.",
+      "Devem haver soluções."
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Português",
+    "pergunta": "Uso correto da crase:",
+    "alternativas": [
+      "Vou à escola.",
+      "Vou a escola.",
+      "Vou à escola ontems.",
+      "Vou a à escola."
+    ],
+    "resposta": 0
+  },
+  {
+    "materia": "Português",
+    "pergunta": "O verbo 'haver' no sentido de existir é:",
+    "alternativas": [
+      "Pessoal",
+      "Regular",
+      "Impessoal",
+      "Auxiliar"
+    ],
+    "resposta": 2
+  },
+  {
+    "materia": "Português",
+    "pergunta": "Assinale a alternativa correta quanto à pontuação:",
+    "alternativas": [
+      "João foi ao mercado comprou pão.",
+      "João foi ao mercado, comprou pão.",
+      "João foi ao mercado e, comprou pão.",
+      "João, foi ao mercado comprou pão."
+    ],
+    "resposta": 1
+  },
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa em que o verbo está corretamente empregado.",
+  "alternativas": [
+    "Fazem dois anos que não o vejo.",
+    "Faz dois anos que não o vejo.",
+    "Fazem dois anos que não o vejo.",
+    "Faziam dois anos que não o vejo."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto ao uso da crase.",
+  "alternativas": [
+    "Entreguei o documento a diretora.",
+    "Entreguei o documento à diretora.",
+    "Entreguei o documento à diretora ontems.",
+    "Entreguei o documento a à diretora."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa em que há erro de concordância nominal.",
+  "alternativas": [
+    "As meninas estavam felizes.",
+    "Os livros são interessantes.",
+    "Menos pessoas compareceram.",
+    "As provas foram difícil."
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa com pontuação correta.",
+  "alternativas": [
+    "Maria foi ao mercado e comprou frutas.",
+    "Maria, foi ao mercado e comprou frutas.",
+    "Maria foi ao mercado, e comprou frutas.",
+    "Maria foi ao mercado e, comprou frutas."
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "O sujeito da oração 'Choveu muito ontem' é:",
+  "alternativas": [
+    "Indeterminado",
+    "Simples",
+    "Inexistente",
+    "Composto"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto à regência verbal.",
+  "alternativas": [
+    "Assisti o filme.",
+    "Assisti ao filme.",
+    "Assisti no filme.",
+    "Assisti para o filme."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "A palavra 'porquê' é utilizada quando:",
+  "alternativas": [
+    "É advérbio",
+    "É pronome",
+    "É substantivo",
+    "É verbo"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto à ortografia.",
+  "alternativas": [
+    "Excessão",
+    "Exceção",
+    "Exessão",
+    "Exceçãum"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "A concordância está correta em:",
+  "alternativas": [
+    "Houveram mudanças.",
+    "Houve mudanças.",
+    "Houveram mudança.",
+    "Houve mudanças grande."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa com uso correto da vírgula.",
+  "alternativas": [
+    "Hoje, iremos ao cinema.",
+    "Hoje iremos, ao cinema.",
+    "Hoje iremos ao, cinema.",
+    "Hoje iremos ao cinema,"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "A palavra 'mau' é o oposto de:",
+  "alternativas": [
+    "Mal",
+    "Bom",
+    "Ruim",
+    "Pior"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa com concordância verbal correta.",
+  "alternativas": [
+    "Devem haver problemas.",
+    "Deve haver problemas.",
+    "Devem haver problema.",
+    "Deve haver problema."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "O plural de 'cidadão' é:",
+  "alternativas": [
+    "Cidadãos",
+    "Cidadões",
+    "Cidadães",
+    "Cidadãoses"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto ao uso de 'mas' e 'mais'.",
+  "alternativas": [
+    "Quero mais não posso.",
+    "Quero mas não posso.",
+    "Quero mais não posso ir.",
+    "Quero mas ir."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "A palavra 'onde' deve ser usada para:",
+  "alternativas": [
+    "Tempo",
+    "Lugar fixo",
+    "Modo",
+    "Causa"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto à acentuação.",
+  "alternativas": [
+    "Ideia",
+    "Idéia",
+    "Idéa",
+    "Ideía"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "O sujeito em 'Os alunos chegaram cedo' é:",
+  "alternativas": [
+    "Oculto",
+    "Indeterminado",
+    "Simples",
+    "Inexistente"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa com regência correta.",
+  "alternativas": [
+    "Prefiro mais café do que chá.",
+    "Prefiro café do que chá.",
+    "Prefiro café a chá.",
+    "Prefiro café que chá."
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Português",
+  "pergunta": "A palavra 'mal' indica:",
+  "alternativas": [
+    "Tempo",
+    "Modo",
+    "Lugar",
+    "Afirmação"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto à concordância.",
+  "alternativas": [
+    "Falta dez dias.",
+    "Faltam dez dias.",
+    "Falta dez dias úteis.",
+    "Faltam dez dia."
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "O predicado em 'João está feliz' é:",
+  "alternativas": [
+    "Nominal",
+    "Verbal",
+    "Verbo-nominal",
+    "Inexistente"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto ao uso do 'por que'.",
+  "alternativas": [
+    "Não sei por que ele saiu.",
+    "Não sei porque ele saiu.",
+    "Não sei porquê ele saiu.",
+    "Não sei por quê ele saiu."
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Português",
+  "pergunta": "A função do advérbio é:",
+  "alternativas": [
+    "Nomear seres",
+    "Modificar o verbo",
+    "Indicar ação",
+    "Substituir nomes"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "Assinale a alternativa correta quanto à ortografia.",
+  "alternativas": [
+    "Concerteza",
+    "Com certeza",
+    "Conserteza",
+    "Conserteza"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Português",
+  "pergunta": "A voz passiva ocorre em:",
+  "alternativas": [
+    "João comprou o livro.",
+    "O livro foi comprado por João.",
+    "João compra livros.",
+    "João comprará livros."
+  ],
+  "resposta": 1
+},
+
+
+  {
+    "materia": "Direito Constitucional",
+    "pergunta": "A Constituição de 1988 é:",
+    "alternativas": [
+      "Outorgada",
+      "Promulgada",
+      "Flexível",
+      "Rígida e não escrita"
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Direito Constitucional",
+    "pergunta": "São direitos fundamentais:",
+    "alternativas": [
+      "Apenas civis",
+      "Apenas políticos",
+      "Civis e sociais",
+      "Somente econômicos"
+    ],
+    "resposta": 2
+  },
+  {
+    "materia": "Direito Constitucional",
+    "pergunta": "O STF é responsável por:",
+    "alternativas": [
+      "Legislar",
+      "Executar leis",
+      "Guardar a Constituição",
+      "Criar normas administrativas"
+    ],
+    "resposta": 2
+  },
+  {
+    "materia": "Direito Constitucional",
+    "pergunta": "O Brasil adota qual forma de governo?",
+    "alternativas": [
+      "Monarquia",
+      "Parlamentarismo",
+      "República",
+      "Ditadura"
+    ],
+    "resposta": 2
+  },
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "A Constituição Federal de 1988 é considerada:",
+  "alternativas": [
+    "Promulgada",
+    "Outorgada",
+    "Flexível",
+    "Costumeira"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "Os direitos e garantias fundamentais estão previstos:",
+  "alternativas": [
+    "No Código Civil",
+    "Na Constituição Federal",
+    "Na CLT",
+    "No Código Penal"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O princípio da dignidade da pessoa humana é:",
+  "alternativas": [
+    "Regra infraconstitucional",
+    "Norma opcional",
+    "Fundamento da República",
+    "Direito administrativo"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "A separação dos poderes compreende:",
+  "alternativas": [
+    "Executivo e Judiciário",
+    "Legislativo e Executivo",
+    "Judiciário e Legislativo",
+    "Executivo, Legislativo e Judiciário"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O voto no Brasil é:",
+  "alternativas": [
+    "Obrigatório para maiores de 18 anos",
+    "Opcional para todos",
+    "Proibido",
+    "Restrito"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O habeas corpus protege:",
+  "alternativas": [
+    "Direito à informação",
+    "Liberdade de locomoção",
+    "Direito à educação",
+    "Direito à saúde"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O mandado de segurança é utilizado para proteger:",
+  "alternativas": [
+    "Direito coletivo genérico",
+    "Direito penal",
+    "Direito líquido e certo",
+    "Direito político"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "A Constituição é a lei:",
+  "alternativas": [
+    "Inferior",
+    "Secundária",
+    "Opcional",
+    "Suprema"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O STF exerce principalmente a função:",
+  "alternativas": [
+    "Jurisdicional constitucional",
+    "Legislativa",
+    "Executiva",
+    "Administrativa"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "Os direitos sociais incluem:",
+  "alternativas": [
+    "Apenas liberdade",
+    "Saúde e educação",
+    "Somente voto",
+    "Propriedade apenas"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O princípio da legalidade estabelece que:",
+  "alternativas": [
+    "Tudo é permitido",
+    "Nada é permitido",
+    "Só se faz o que a lei permite",
+    "A lei é opcional"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "A federação brasileira é composta por:",
+  "alternativas": [
+    "Estados apenas",
+    "Municípios apenas",
+    "União apenas",
+    "União, Estados, DF e Municípios"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O direito à vida é:",
+  "alternativas": [
+    "Fundamental",
+    "Opcional",
+    "Relativo apenas",
+    "Secundário"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "A soberania é:",
+  "alternativas": [
+    "Poder limitado externo",
+    "Poder supremo do Estado",
+    "Poder local",
+    "Poder administrativo"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Constitucional",
+  "pergunta": "O controle de constitucionalidade visa:",
+  "alternativas": [
+    "Criar leis",
+    "Executar normas",
+    "Verificar compatibilidade com a Constituição",
+    "Aplicar sanções"
+  ],
+  "resposta": 2
+},
+
+
+  {
+    "materia": "Direito Administrativo",
+    "pergunta": "Princípio da legalidade:",
+    "alternativas": [
+      "Fazer qualquer coisa",
+      "Agir conforme a lei",
+      "Ignorar normas",
+      "Criar leis"
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Direito Administrativo",
+    "pergunta": "Ato administrativo é:",
+    "alternativas": [
+      "Lei",
+      "Sentença",
+      "Manifestação da administração",
+      "Contrato privado"
+    ],
+    "resposta": 2
+  },
+  {
+    "materia": "Direito Administrativo",
+    "pergunta": "O princípio da impessoalidade significa:",
+    "alternativas": [
+      "Favorecimento",
+      "Neutralidade",
+      "Corrupção",
+      "Sigilo"
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Direito Administrativo",
+    "pergunta": "Servidor público deve agir com:",
+    "alternativas": [
+      "Parcialidade",
+      "Legalidade",
+      "Arbitrariedade",
+      "Sigilo total"
+    ],
+    "resposta": 1
+  },
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "O princípio da moralidade administrativa exige:",
+  "alternativas": [
+    "Conduta ética",
+    "Atos ilegais",
+    "Sigilo absoluto",
+    "Favorecimento"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "O princípio da publicidade refere-se a:",
+  "alternativas": [
+    "Sigilo dos atos",
+    "Divulgação dos atos administrativos",
+    "Ocultação de informações",
+    "Decisões privadas"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "O princípio da eficiência está relacionado a:",
+  "alternativas": [
+    "Lentidão",
+    "Burocracia excessiva",
+    "Produtividade e qualidade",
+    "Sigilo"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "A administração pública deve obedecer aos princípios:",
+  "alternativas": [
+    "Privados",
+    "Pessoais",
+    "Sigilosos",
+    "Constitucionais"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "Poder hierárquico permite:",
+  "alternativas": [
+    "Organizar e controlar subordinados",
+    "Criar leis",
+    "Julgar processos",
+    "Legislar"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "Poder disciplinar refere-se a:",
+  "alternativas": [
+    "Criar normas",
+    "Aplicar sanções a servidores",
+    "Executar leis",
+    "Julgar crimes"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "Poder regulamentar permite:",
+  "alternativas": [
+    "Criar leis",
+    "Julgar ações",
+    "Expedir regulamentos",
+    "Aplicar penas"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "A autotutela administrativa significa:",
+  "alternativas": [
+    "Controle judicial",
+    "Criação de leis",
+    "Delegação de poder",
+    "Revisão dos próprios atos"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "A licitação tem como objetivo:",
+  "alternativas": [
+    "Garantir igualdade e melhor proposta",
+    "Favorecer empresas",
+    "Evitar contratos",
+    "Privatizar serviços"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "Contrato administrativo é:",
+  "alternativas": [
+    "Acordo entre particulares",
+    "Acordo com a administração pública",
+    "Lei",
+    "Sentença"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "O interesse público deve:",
+  "alternativas": [
+    "Ser ignorado",
+    "Ser opcional",
+    "Prevalecer",
+    "Ser secundário"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "A responsabilidade civil do Estado é:",
+  "alternativas": [
+    "Subjetiva sempre",
+    "Inexistente",
+    "Opcional",
+    "Objetiva em regra"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "Servidor público responde por atos:",
+  "alternativas": [
+    "Civis, penais e administrativos",
+    "Apenas civis",
+    "Apenas penais",
+    "Nenhum"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "A legalidade na administração pública significa:",
+  "alternativas": [
+    "Fazer tudo",
+    "Agir conforme a lei",
+    "Ignorar normas",
+    "Criar regras próprias"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Direito Administrativo",
+  "pergunta": "O abuso de poder ocorre quando:",
+  "alternativas": [
+    "O agente atua corretamente",
+    "Segue a lei",
+    "Extrapola suas competências",
+    "Age com moralidade"
+  ],
+  "resposta": 2
+},
+
+
+{
+  "materia": "Legislação",
+  "pergunta": "A ética no serviço público exige:",
+  "alternativas": [
+    "Transparência",
+    "Corrupção",
+    "Sigilo ilegal",
+    "Favorecimento"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Legislação",
+  "pergunta": "Servidor público deve cumprir:",
+  "alternativas": [
+    "Vontade própria",
+    "Interesse pessoal",
+    "Lei",
+    "Ordem ilegal"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Legislação",
+  "pergunta": "É vedado ao servidor:",
+  "alternativas": [
+    "Trabalhar",
+    "Cumprir horário",
+    "Executar tarefas",
+    "Receber propina"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Legislação",
+  "pergunta": "A moralidade administrativa refere-se a:",
+  "alternativas": [
+    "Legalidade apenas",
+    "Velocidade",
+    "Tecnologia",
+    "Ética e honestidade"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O princípio da legalidade na administração pública significa:",
+  "alternativas": [
+    "Agir conforme a lei",
+    "Agir conforme interesse pessoal",
+    "Agir livremente",
+    "Agir sem limites"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O princípio da impessoalidade garante:",
+  "alternativas": [
+    "Favorecimento pessoal",
+    "Sigilo absoluto",
+    "Tratamento igualitário",
+    "Autonomia total"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O servidor público deve agir com:",
+  "alternativas": [
+    "Parcialidade",
+    "Interesse próprio",
+    "Moralidade",
+    "Sigilo ilegal"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O princípio da publicidade exige:",
+  "alternativas": [
+    "Divulgação dos atos públicos",
+    "Sigilo total",
+    "Ocultação de informações",
+    "Decisões secretas"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O princípio da eficiência está relacionado a:",
+  "alternativas": [
+    "Lentidão administrativa",
+    "Qualidade e rapidez",
+    "Burocracia excessiva",
+    "Sigilo"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Legislação",
+  "pergunta": "É dever do servidor público:",
+  "alternativas": [
+    "Descumprir normas",
+    "Favorecer amigos",
+    "Aceitar vantagens",
+    "Agir com honestidade"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Legislação",
+  "pergunta": "É proibido ao servidor público:",
+  "alternativas": [
+    "Receber vantagens indevidas",
+    "Cumprir ordens legais",
+    "Atender ao público",
+    "Executar tarefas"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Legislação",
+  "pergunta": "A improbidade administrativa refere-se a:",
+  "alternativas": [
+    "Boa gestão",
+    "Eficiência",
+    "Conduta desonesta",
+    "Legalidade"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O servidor deve tratar o público com:",
+  "alternativas": [
+    "Desrespeito",
+    "Cortesia",
+    "Indiferença",
+    "Rigidez excessiva"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Legislação",
+  "pergunta": "A transparência na administração pública implica:",
+  "alternativas": [
+    "Acesso à informação",
+    "Ocultação de dados",
+    "Sigilo absoluto",
+    "Restrição total"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O servidor deve agir conforme:",
+  "alternativas": [
+    "Interesse próprio",
+    "Interesse público",
+    "Vontade pessoal",
+    "Ordem ilegal"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Legislação",
+  "pergunta": "A responsabilidade do servidor público inclui:",
+  "alternativas": [
+    "Apenas civil",
+    "Apenas penal",
+    "Civil, penal e administrativa",
+    "Nenhuma"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O abuso de poder ocorre quando:",
+  "alternativas": [
+    "O servidor age corretamente",
+    "Cumpre a lei",
+    "Age com ética",
+    "O servidor extrapola suas funções"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Legislação",
+  "pergunta": "O interesse público deve:",
+  "alternativas": [
+    "Ser ignorado",
+    "Ser opcional",
+    "Ser secundário",
+    "Prevalecer sobre o privado"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Legislação",
+  "pergunta": "A legalidade exige que o servidor:",
+  "alternativas": [
+    "Siga a lei",
+    "Crie suas próprias regras",
+    "Ignore normas",
+    "Atue livremente"
+  ],
+  "resposta": 0
+},
+
+
+  {
+    "materia": "Informática",
+    "pergunta": "CPU significa:",
+    "alternativas": [
+      "Memória",
+      "Processador",
+      "Tela",
+      "Teclado"
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Informática",
+    "pergunta": "Sistema operacional:",
+    "alternativas": [
+      "Word",
+      "Linux",
+      "Chrome",
+      "Excel"
+    ],
+    "resposta": 1
+  },
+  {
+    "materia": "Informática",
+    "pergunta": "Qual é um navegador?",
+    "alternativas": [
+      "Windows",
+      "Excel",
+      "Chrome",
+      "CPU"
+    ],
+    "resposta": 2
+  },
+  {
+    "materia": "Informática",
+    "pergunta": "Memória RAM é:",
+    "alternativas": [
+      "Armazenamento permanente",
+      "Memória temporária",
+      "Processador",
+      "HD externo"
+    ],
+    "resposta": 1
+  },
+  {
+  "materia": "Informática",
+  "pergunta": "O que é um hardware?",
+  "alternativas": [
+    "Programa de computador",
+    "Parte física do computador",
+    "Sistema operacional",
+    "Aplicativo online"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual dos itens é um dispositivo de entrada?",
+  "alternativas": [
+    "Monitor",
+    "Impressora",
+    "Teclado",
+    "Caixa de som"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual é a função do sistema operacional?",
+  "alternativas": [
+    "Editar textos",
+    "Gerenciar recursos do computador",
+    "Navegar na internet",
+    "Criar planilhas"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que é um navegador de internet?",
+  "alternativas": [
+    "Sistema operacional",
+    "Programa para acessar páginas web",
+    "Antivírus",
+    "Editor de texto"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual dos itens é um exemplo de software?",
+  "alternativas": [
+    "Mouse",
+    "Teclado",
+    "Windows",
+    "Monitor"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que significa URL?",
+  "alternativas": [
+    "Endereço de um site na internet",
+    "Programa de edição",
+    "Memória do computador",
+    "Sistema operacional"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual é a principal função da memória RAM?",
+  "alternativas": [
+    "Armazenar dados permanentemente",
+    "Executar programas temporariamente",
+    "Conectar à internet",
+    "Processar dados"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que é um vírus de computador?",
+  "alternativas": [
+    "Programa de segurança",
+    "Software malicioso",
+    "Sistema operacional",
+    "Aplicativo de edição"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual dos itens abaixo é um dispositivo de saída?",
+  "alternativas": [
+    "Teclado",
+    "Mouse",
+    "Monitor",
+    "Scanner"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que é um firewall?",
+  "alternativas": [
+    "Programa de edição",
+    "Sistema de proteção de rede",
+    "Tipo de hardware",
+    "Sistema operacional"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual extensão representa um arquivo de texto?",
+  "alternativas": [
+    ".jpg",
+    ".mp3",
+    ".txt",
+    ".exe"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que é armazenamento em nuvem?",
+  "alternativas": [
+    "Guardar dados na memória RAM",
+    "Salvar arquivos na internet",
+    "Armazenar no HD apenas",
+    "Executar programas offline"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual dos itens é um exemplo de e-mail?",
+  "alternativas": [
+    "www.google.com",
+    "usuario@email.com",
+    "192.168.0.1",
+    "C:\\Arquivos"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "O que é um backup?",
+  "alternativas": [
+    "Excluir arquivos",
+    "Cópia de segurança de dados",
+    "Atualização do sistema",
+    "Formatação do computador"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Informática",
+  "pergunta": "Qual é a função do HD ou SSD?",
+  "alternativas": [
+    "Processar dados",
+    "Armazenar dados permanentemente",
+    "Executar programas temporários",
+    "Controlar a internet"
+  ],
+  "resposta": 1
+},
+
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 25% de 200?",
+  "alternativas": [
+    "50",
+    "25",
+    "75",
+    "100"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 3x = 15, então x é:",
+  "alternativas": [
+    "3",
+    "5",
+    "10",
+    "15"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 2² + 3²?",
+  "alternativas": [
+    "10",
+    "12",
+    "13",
+    "9"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Um produto custa R$ 100 e teve aumento de 10%. Novo valor:",
+  "alternativas": [
+    "105",
+    "108",
+    "109",
+    "110"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 300 ÷ 3?",
+  "alternativas": [
+    "100",
+    "90",
+    "80",
+    "120"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 5x = 20, então x é:",
+  "alternativas": [
+    "2",
+    "4",
+    "5",
+    "10"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 7 × 6?",
+  "alternativas": [
+    "40",
+    "41",
+    "42",
+    "36"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se um produto de R$ 200 teve desconto de 20%, o valor final será:",
+  "alternativas": [
+    "180",
+    "170",
+    "150",
+    "160"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 9 + 11?",
+  "alternativas": [
+    "20",
+    "21",
+    "19",
+    "22"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 2x = 8, então x vale:",
+  "alternativas": [
+    "2",
+    "4",
+    "6",
+    "8"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 15% de 200?",
+  "alternativas": [
+    "20",
+    "25",
+    "30",
+    "35"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 10 operários fazem uma obra em 5 dias, em regra de três simples, 5 operários fariam em:",
+  "alternativas": [
+    "2 dias",
+    "3 dias",
+    "5 dias",
+    "10 dias"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 50 ÷ 5?",
+  "alternativas": [
+    "10",
+    "5",
+    "15",
+    "20"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 4x = 16, então x é:",
+  "alternativas": [
+    "2",
+    "4",
+    "6",
+    "8"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 20% de 150?",
+  "alternativas": [
+    "20",
+    "25",
+    "30",
+    "35"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 12 × 4?",
+  "alternativas": [
+    "44",
+    "46",
+    "47",
+    "48"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 18 ÷ 2?",
+  "alternativas": [
+    "9",
+    "8",
+    "7",
+    "6"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se x + 5 = 10, então x vale:",
+  "alternativas": [
+    "3",
+    "5",
+    "7",
+    "10"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 10% de 300?",
+  "alternativas": [
+    "20",
+    "25",
+    "30",
+    "35"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 8 operários fazem uma obra em 4 dias, 4 operários fariam em:",
+  "alternativas": [
+    "2 dias",
+    "3 dias",
+    "4 dias",
+    "8 dias"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 7 + 8?",
+  "alternativas": [
+    "15",
+    "14",
+    "13",
+    "16"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 6x = 12, então x é:",
+  "alternativas": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 5% de 200?",
+  "alternativas": [
+    "5",
+    "8",
+    "10",
+    "15"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 9 × 5?",
+  "alternativas": [
+    "40",
+    "42",
+    "43",
+    "45"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 100 ÷ 4?",
+  "alternativas": [
+    "25",
+    "20",
+    "30",
+    "40"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se x - 3 = 7, então x é:",
+  "alternativas": [
+    "8",
+    "10",
+    "12",
+    "7"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o valor de 50% de 80?",
+  "alternativas": [
+    "30",
+    "35",
+    "40",
+    "45"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 11 × 3?",
+  "alternativas": [
+    "30",
+    "31",
+    "32",
+    "33"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Qual é o resultado de 14 + 6?",
+  "alternativas": [
+    "20",
+    "19",
+    "21",
+    "22"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Matemática",
+  "pergunta": "Se 9x = 27, então x é:",
+  "alternativas": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "resposta": 1
+},
+
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A negação da proposição 'Todos os alunos estudam' é:",
+  "alternativas": [
+    "Algum aluno não estuda",
+    "Nenhum aluno estuda",
+    "Todos os alunos não estudam",
+    "Alguns alunos estudam"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A proposição 'Se chove, então levo guarda-chuva' é:",
+  "alternativas": [
+    "Conjunção",
+    "Condicional",
+    "Disjunção",
+    "Bicondicional"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A negação de 'A e B' é:",
+  "alternativas": [
+    "A e B",
+    "A ou B",
+    "Não A ou não B",
+    "Não A e não B"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Se hoje é segunda, então amanhã é terça. Se a primeira é verdadeira, a segunda é:",
+  "alternativas": [
+    "Falsa",
+    "Inconclusiva",
+    "Irrelevante",
+    "Verdadeira"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A proposição 'João é alto e Maria é baixa' é:",
+  "alternativas": [
+    "Conjunção",
+    "Disjunção",
+    "Condicional",
+    "Negação"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A disjunção ocorre quando usamos:",
+  "alternativas": [
+    "E",
+    "Ou",
+    "Se",
+    "Não"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A negação de 'Alguns alunos estudam' é:",
+  "alternativas": [
+    "Alguns não estudam",
+    "Todos estudam",
+    "Nenhum aluno estuda",
+    "Todos não estudam"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Uma proposição é uma frase:",
+  "alternativas": [
+    "Exclamativa",
+    "Imperativa",
+    "Interrogativa",
+    "Declarativa com valor lógico"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual sequência completa: 2, 4, 6, 8, ?",
+  "alternativas": [
+    "10",
+    "9",
+    "12",
+    "11"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual o próximo número: 1, 3, 5, 7, ?",
+  "alternativas": [
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual o próximo número: 2, 6, 18, ?",
+  "alternativas": [
+    "36",
+    "48",
+    "54",
+    "60"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual o próximo número: 10, 8, 6, 4, ?",
+  "alternativas": [
+    "3",
+    "1",
+    "0",
+    "2"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Se todos A são B e todos B são C, então:",
+  "alternativas": [
+    "Todos A são C",
+    "Alguns A são C",
+    "Nenhum A é C",
+    "Não é possível afirmar"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A proposição 'Se A então B' é falsa quando:",
+  "alternativas": [
+    "A e B verdadeiros",
+    "A verdadeiro e B falso",
+    "A falso e B verdadeiro",
+    "A e B falsos"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A bicondicional é representada por:",
+  "alternativas": [
+    "E",
+    "OU",
+    "SE E SOMENTE SE",
+    "NÃO"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual sequência: 3, 6, 9, 12, ?",
+  "alternativas": [
+    "13",
+    "14",
+    "16",
+    "15"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Negação de 'A ou B':",
+  "alternativas": [
+    "Não A e não B",
+    "Não A ou não B",
+    "A e B",
+    "A ou B"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Uma tautologia é:",
+  "alternativas": [
+    "Sempre falsa",
+    "Sempre verdadeira",
+    "Às vezes falsa",
+    "Sem valor lógico"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual o próximo número: 5, 10, 20, 40, ?",
+  "alternativas": [
+    "60",
+    "70",
+    "80",
+    "90"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual o próximo número: 100, 90, 80, 70, ?",
+  "alternativas": [
+    "50",
+    "65",
+    "55",
+    "60"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A conjunção é verdadeira quando:",
+  "alternativas": [
+    "Ambas verdadeiras",
+    "Uma verdadeira",
+    "Ambas falsas",
+    "Nenhuma verdadeira"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A disjunção é falsa quando:",
+  "alternativas": [
+    "Uma verdadeira",
+    "Ambas falsas",
+    "Ambas verdadeiras",
+    "Uma falsa"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Se A é verdadeiro e B falso, A ∧ B é:",
+  "alternativas": [
+    "Verdadeiro",
+    "Indeterminado",
+    "Falso",
+    "Sempre verdadeiro"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Se A é verdadeiro e B falso, A ∨ B é:",
+  "alternativas": [
+    "Falso",
+    "Indeterminado",
+    "Sempre falso",
+    "Verdadeiro"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual sequência: 1, 4, 9, 16, ?",
+  "alternativas": [
+    "25",
+    "20",
+    "18",
+    "30"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual sequência: 2, 3, 5, 7, ?",
+  "alternativas": [
+    "9",
+    "11",
+    "13",
+    "15"
+  ],
+  "resposta": 1
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Se nenhum A é B, então:",
+  "alternativas": [
+    "Todos A são B",
+    "Alguns A são B",
+    "A e B não se intersectam",
+    "A é subconjunto de B"
+  ],
+  "resposta": 2
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Qual sequência: 8, 16, 32, 64, ?",
+  "alternativas": [
+    "100",
+    "110",
+    "120",
+    "128"
+  ],
+  "resposta": 3
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "A proposição 'Não A' representa:",
+  "alternativas": [
+    "Negação",
+    "Conjunção",
+    "Disjunção",
+    "Condição"
+  ],
+  "resposta": 0
+},
+{
+  "materia": "Raciocínio Lógico",
+  "pergunta": "Uma contradição é:",
+  "alternativas": [
+    "Sempre verdadeira",
+    "Sempre falsa",
+    "Às vezes verdadeira",
+    "Sem valor lógico"
+  ],
+  "resposta": 1
+}
+
+]

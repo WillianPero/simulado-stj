@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulado STJ</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 🔥 BACKGROUND */
+body {
+    font-family: Arial, sans-serif;
+
+    background-color: #111;
+    background-image: url("img/stj.jpg.png"); /* coloque sua imagem aqui */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+}
+
+/* overlay escuro */
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 0;
+}
+
+/* CONTAINER */
+.container {
+    position: relative;
+    z-index: 1;
+
+    width: 100vw;
+    min-height: 100vh; /* 🔥 corrigido */
+
+    background: rgba(255,255,255,0.95);
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 16px;
+
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+/* Título */
+h2 {
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+
+/* Select */
+select {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+/* Pergunta */
+#pergunta {
+    flex: none; /* 🔥 evita sumir */
+    font-size: 1.05rem;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+/* Alternativas */
+#alternativas {
+    flex: 1;
+    overflow-y: auto; /* 🔥 scroll correto */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Botões */
+button {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 1rem;
+
+    background: #e5e7eb;
+}
+
+.correta {
+    background-color: #22c55e;
+    color: white;
+}
+
+.errada {
+    background-color: #ef4444;
+    color: white;
+}
+
+/* Pontuação */
+#pontuacao {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container {
+        width: 95vw;
+        height: 95vh;
+        max-width: 700px;
+        border-radius: 15px;
+        box-shadow: 0 0 25px rgba(0,0,0,0.4);
+    }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+    .container {
+        max-width: 800px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>Simulado STJ</h2>
+
+    <select id="filtro">
+        <option>Todas</option>
+        <option>Português</option>
+        <option>Direito Constitucional</option>
+        <option>Direito Administrativo</option>
+        <option>Legislação</option>
+        <option>Matemática</option>
+        <option>Raciocínio Lógico</option>
+    </select>
+
+    <p id="pergunta"></p>
+
+    <div id="alternativas"></div>
+
+    <p id="pontuacao"></p>
+</div>
+
+<script>
+
+let questoes = [];
+let filtradas = [];
+let indice = 0;
+
+let acertos = 0;
+let erros = 0;
+let pontuacao = 0;
+
+let bloqueado = false;
+
+const perguntaEl = document.getElementById("pergunta");
+const alternativasEl = document.getElementById("alternativas");
+const pontuacaoEl = document.getElementById("pontuacao");
+const filtroEl = document.getElementById("filtro");
+
+async function carregarQuestoes() {
+    try {
+        const resposta = await fetch("questoes.json");
+        questoes = await resposta.json();
+        filtradas = questoes;
+        carregarQuestao();
+    } catch (erro) {
+        perguntaEl.innerHTML = "<strong>Erro ao carregar questões.</strong>";
+        console.error(erro);
+    }
+}
+
+function atualizarPainel() {
+    pontuacaoEl.innerHTML = `
+        Pontuação: ${pontuacao} <br>
+        ✅ Acertos: ${acertos} | ❌ Erros: ${erros}
+    `;
+}
+
+function carregarQuestao() {
+    bloqueado = false;
+
+    if (indice >= filtradas.length) {
+        perguntaEl.innerHTML = `
+            <h3 style='text-align:center'>Prova finalizada!</h3>
+            <p style='text-align:center'>
+                ✅ Acertos: ${acertos} <br>
+                ❌ Erros: ${erros} <br><br>
+                🏆 Pontuação final: ${pontuacao}
+            </p>
+        `;
+        alternativasEl.innerHTML = "";
+        pontuacaoEl.innerHTML = "";
+        return;
+    }
+
+    const q = filtradas[indice];
+
+    perguntaEl.innerHTML = `<strong>${q.materia}</strong><br><br>${q.pergunta}`;
+    alternativasEl.innerHTML = "";
+
+    q.alternativas.forEach((alt, i) => {
+        const btn = document.createElement("button");
+        btn.innerText = alt;
+        btn.onclick = () => selecionarResposta(i);
+        alternativasEl.appendChild(btn);
+    });
+
+    atualizarPainel();
+}
+
+function selecionarResposta(escolha) {
+    if (bloqueado) return;
+    bloqueado = true;
+
+    const indiceCorreto = filtradas[indice].resposta;
+    const botoes = alternativasEl.querySelectorAll("button");
+
+    botoes.forEach((btn, i) => {
+        btn.disabled = true;
+
+        if (i === indiceCorreto) {
+            btn.classList.add("correta");
+        }
+
+        if (i === escolha && i !== indiceCorreto) {
+            btn.classList.add("errada");
+        }
+    });
+
+    if (escolha === indiceCorreto) {
+        pontuacao++;
+        acertos++;
+    } else {
+        pontuacao--;
+        erros++;
+    }
+
+    atualizarPainel();
+
+    setTimeout(() => {
+        indice++;
+        carregarQuestao();
+    }, 1000);
+}
+
+filtroEl.addEventListener("change", () => {
+    const valor = filtroEl.value;
+
+    filtradas = valor === "Todas"
+        ? questoes
+        : questoes.filter(q => q.materia === valor);
+
+    indice = 0;
+    pontuacao = 0;
+    acertos = 0;
+    erros = 0;
+
+    carregarQuestao();
+});
+
+carregarQuestoes();
+
+</script>
+
+</body>
+</html>
