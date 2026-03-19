@@ -1167,12 +1167,12 @@
   "materia": "Matemática",
   "pergunta": "Qual é o resultado de 25% de 200?",
   "alternativas": [
-    "50",
     "25",
     "75",
+    "50",
     "100"
   ],
-  "resposta": 0
+  "resposta": 2
 },
 {
   "materia": "Matemática",
@@ -1223,11 +1223,11 @@
   "pergunta": "Se 5x = 20, então x é:",
   "alternativas": [
     "2",
-    "4",
     "5",
+    "4",
     "10"
   ],
-  "resposta": 1
+  "resposta": 2
 },
 {
   "materia": "Matemática",
